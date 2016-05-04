@@ -10,10 +10,6 @@ function initController($scope) {
         }    
     }
     
-    $scope.deleteItem = function (item) {
-        if($scope.items.lenght > 0) {
-            delete $scope.item;
-        }
-    }
+    /* here goes a valid function to delete*/
     
 }
