@@ -11,5 +11,7 @@ function initController($scope) {
     }
     
     /* here goes a valid function to delete*/
+	
+	/* a new comment to check */
     
 }
