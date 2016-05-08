@@ -1,7 +1,2 @@
-/* Some text */
-Second line
-third line
+Cleared this file from newbranch and added some new text.
 
-Fourth line from github
-
-Append fifth line
