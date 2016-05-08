@@ -1,2 +1,3 @@
 Cleared this file from newbranch and added some new text.
 
+Second branch is correct version
